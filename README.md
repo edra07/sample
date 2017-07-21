@@ -1,2 +1,2 @@
 # sample
-Sistema que utiliza frames de google para crear una libreria 
+Sistema utiliza frames de google para crear una libreria 
